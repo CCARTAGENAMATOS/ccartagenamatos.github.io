@@ -30,8 +30,6 @@ author:
 
 # --- Menú de Navegación (en la barra lateral) ---
 menu:
-  - title:          Sobre mí
-    url:            
 
   - title:          Experiencia
     url:            /experiencia/
