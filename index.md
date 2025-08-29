@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Sobre mí
-permalink: /
+permalink: /index/
 ---
 
 Ingeniero de Minas especialista en Planeamiento y Gestión de Despacho. Con 4 años de experiencia, mi trayectoria abarca desde el planeamiento táctico y control diario de la operación, hasta la optimización estratégica de escenarios para proyectos mineros con Whittle.
