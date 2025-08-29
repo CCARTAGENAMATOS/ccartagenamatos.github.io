@@ -28,8 +28,8 @@ menu:
   - title:          Habilidades y Educación
     url:            /habilidades/
 
-  - title:          Blog
-    url:            /blog/ # Para futuros artículos
+  - title:          Proyectos
+    url:            /proyectos/
 
 # --- Estilo y Tema ---
 # theme: jekyll-theme-hydejack # Comentado para evitar el error
