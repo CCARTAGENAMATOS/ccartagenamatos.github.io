@@ -12,7 +12,7 @@ Esta es una muestra de algunos de los proyectos más destacados en los que he tr
 
 ### Detección de Núcleos de Perforación con PyTorch
 
-![Detección de Núcleos de Perforación]({{ '/assets/img/proyecto_nucleos.png' | absolute_url }})
+![Detección de Núcleos de Perforación]({{ 'https://raw.githubusercontent.com/CCARTAGENAMATOS/ccartagenamatos.github.io/refs/heads/master/core.png' | absolute_url }})
 *Un modelo de Visión por Computador para la clasificación automática de muestras geológicas de núcleos de perforación, aplicando técnicas de Deep Learning.*
 
 - **Objetivo:** Automatizar la identificación de tipos de roca para acelerar el proceso de análisis geológico y reducir la subjetividad humana.
