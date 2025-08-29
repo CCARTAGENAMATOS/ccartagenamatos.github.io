@@ -50,19 +50,23 @@ Esta es una muestra de algunos de los proyectos más destacados en los que he tr
 
 ### Detección de Equipos Mineros en Tiempo Real con YOLOv5
 
-![Detección de equipo minero con YOLOv5]({{ '/assets/img/proyecto_yolo.png' | absolute_url }})
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CCARTAGENAMATOS/ccartagenamatos.github.io/refs/heads/master/camiones.png" alt="Detección de equipo minero con YOLOv5" width="350">
+</p>
+
 *Un modelo de Detección de Objetos para la identificación y localización de maquinaria pesada en entornos mineros, clave para la seguridad y optimización logística.*
 
-- **Objetivo:** Desarrollar un sistema de visión artificial capaz de detectar y clasificar equipos pesados (camiones, excavadoras) en tiempo real, sentando las bases para aplicaciones de seguridad y monitoreo autónomo.
-- **Tecnologías:** Python, PyTorch, YOLOv5, Roboflow, Visión por Computador.
+- **Objetivo:** Desarrollar un sistema de visión artificial capaz de detectar y clasificar equipos pesados (camiones, excavadoras) en tiempo real, sentando las bases para aplicaciones de seguridad y monitoreo autónomo.  
+- **Tecnologías:** Python, PyTorch, YOLOv5, Roboflow, Visión por Computador.  
 - **Mi Contribución:**
-    - Entrené un modelo YOLOv5 sobre un dataset personalizado de maquinaria minera, demostrando la capacidad de adaptar soluciones de IA a problemas específicos del sector.
-    - Gestioné el proceso de preparación de datos, incluyendo la anotación (bounding boxes) y el aumento de datos (data augmentation) para mejorar la robustez del modelo.
-    - El resultado es un sistema capaz de operar en tiempo real, fundamental para futuras aplicaciones como la prevención de colisiones y la gestión automatizada de flotas.
+    - Entrené un modelo YOLOv5 sobre un dataset personalizado de maquinaria minera, demostrando la capacidad de adaptar soluciones de IA a problemas específicos del sector.  
+    - Gestioné el proceso de preparación de datos, incluyendo la anotación (bounding boxes) y el aumento de datos (data augmentation) para mejorar la robustez del modelo.  
+    - El resultado es un sistema capaz de operar en tiempo real, fundamental para futuras aplicaciones como la prevención de colisiones y la gestión automatizada de flotas.  
 
 [**Ver el Proyecto en Kaggle**](https://www.kaggle.com/code/cristianminas/mining-equipment-yolov5-train)
 
 ---
+
 
 ### Predicción de Fuga de Clientes con Stacking de Modelos
 
