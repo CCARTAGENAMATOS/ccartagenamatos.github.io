@@ -32,7 +32,7 @@ author:
 menu:
 
   - title:          Sobre mí
-    url:            /index/
+    url:            /base/
 
   - title:          Experiencia
     url:            /experiencia/
