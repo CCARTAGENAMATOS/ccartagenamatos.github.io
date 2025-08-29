@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Inicio
-description: >
-  Bienvenido a mi portafolio de proyectos en minería e inteligencia artificial.
 ---
 
 # 👋 Bienvenido
