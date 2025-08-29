@@ -42,7 +42,7 @@ En esta página encontrarás algunos de mis proyectos más destacados.
   <!-- Proyecto 4 -->
   <div class="card" style="text-align: center; padding: 10px; border: 1px solid #ddd; border-radius: 10px;">
     <a href="./blog/proyecto-stacking">
-      <img src="{{ '/assets/img/proyecto_stacking.png' | absolute_url }}" alt="Stacking Models" style="width:100%; border-radius: 10px;">
+      <img src="{{ 'https://raw.githubusercontent.com/CCARTAGENAMATOS/ccartagenamatos.github.io/refs/heads/master/staking.png' | absolute_url }}" alt="Stacking Models" style="width:100%; border-radius: 10px;">
       <h3>Predicción de Fuga de Clientes</h3>
     </a>
     <p>Modelo de Stacking para mejorar la predicción de churn en negocios.</p>
@@ -51,7 +51,7 @@ En esta página encontrarás algunos de mis proyectos más destacados.
   <!-- Proyecto 5 -->
   <div class="card" style="text-align: center; padding: 10px; border: 1px solid #ddd; border-radius: 10px;">
     <a href="./blog/proyecto-satelital">
-      <img src="{{ '/assets/img/proyecto_satelital.png' | absolute_url }}" alt="IA y Satélites" style="width:100%; border-radius: 10px;">
+      <img src="{{ 'https://raw.githubusercontent.com/CCARTAGENAMATOS/ccartagenamatos.github.io/refs/heads/master/satelites%2Cpng.jpg' | absolute_url }}" alt="IA y Satélites" style="width:100%; border-radius: 10px;">
       <h3>Descubrimiento de Yacimientos</h3>
     </a>
     <p>Análisis de imágenes satelitales con IA para prospección minera.</p>
