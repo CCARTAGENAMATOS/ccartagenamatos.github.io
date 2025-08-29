@@ -25,5 +25,5 @@ Busco **roles donde combine minería y ciencia de datos**, generando eficiencia 
 
 Si crees que mi experiencia puede ser útil para impulsar tu proyecto, no dudes en contactarme:  
 
-- 📧 [Contactar por Email](mailto:tuemail@ejemplo.com)  
-- 🔗 [Conectar en LinkedIn](https://www.linkedin.com/in/tuusuario)  
+- 📧 [Contactar por Email](mailto:ccartagenamatos@gmail.com)  
+- 🔗 [Conectar en LinkedIn](https://www.linkedin.com/in/cristiancartagenamatos/)  
