@@ -31,7 +31,10 @@ Esta es una muestra de algunos de los proyectos más destacados en los que he tr
 
 ### Optimización de Procesos Mineros con XGBoost y Explicabilidad (SHAP)
 
-![Gráfico de Importancia de Variables con SHAP]({{ '/assets/img/proyecto_shap.png' | absolute_url }})
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CCARTAGENAMATOS/ccartagenamatos.github.io/refs/heads/master/shap.png" alt="Gráfico de Importancia de Variables con SHAP" width="350">
+</p>
+
 *Un modelo de machine learning para predecir la pureza del mineral de hierro, con un enfoque en la interpretabilidad del modelo para la toma de decisiones operativas.*
 
 - **Objetivo:** Predecir y controlar la cantidad de impurezas de sílice en un proceso de flotación para mejorar la calidad del producto final y optimizar el uso de reactivos.
