@@ -1,5 +1,5 @@
 # ===================================================================
-# CONFIGURACIÓN ESENCIAL PARA TU SITIO CON HYDEJACK
+# CONFIGURACIÓN ESENCIAL PARA TU SITIO CON HYDEJACK (CORREGIDA)
 # ===================================================================
 
 # --- Información Básica del Sitio ---
@@ -32,7 +32,9 @@ menu:
     url:            /blog/ # Para futuros artículos
 
 # --- Estilo y Tema ---
-theme: jekyll-theme-hydejack # No cambiar
+# theme: jekyll-theme-hydejack # Comentado para evitar el error
+remote_theme: hydecorp/hydejack@v9 # Usamos remote_theme para que funcione en GitHub Pages
+
 hydejack:
   no_break_layout:  true # Mantiene el contenido centrado
 copyright:          "© 2024 Cristian Cartagena Matos. Todos los derechos reservados."
