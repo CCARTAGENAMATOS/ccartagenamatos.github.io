@@ -1,10 +1,9 @@
 # ===================================================================
-# CONFIGURACIÓN ESENCIAL PARA TU SITIO CON HYDEJACK (CORREGIDA)
+# CONFIGURACIÓN ESENCIAL PARA TU SITIO CON HYDEJACK (ACTUALIZADO)
 # ===================================================================
 
 # --- Información Básica del Sitio ---
-# REEMPLAZA 'tu-usuario' con tu nombre de usuario de GitHub
-url:              https://tu-usuario.github.io
+url:              https://ccartagenamatos.github.io
 baseurl:          "" # Déjalo vacío
 lang:             es-ES # Idioma del sitio
 title:            Cristian Cartagena Matos # Título en la pestaña del navegador
@@ -12,10 +11,22 @@ description: >-   # Descripción para Google
   Portafolio de Cristian Cartagena Matos, Ingeniero de Minas especialista
   en Planeamiento, Despacho y Ciencia de Datos.
 
-# --- Información del Autor (para la barra lateral) ---
+# --- Información del Autor (para la barra lateral y enlaces sociales) ---
 author:
   name:           Cristian Cartagena Matos
   email:          ccartagenamatos@gmail.com
+  
+  # Este texto aparecerá como una llamada a la acción en la barra lateral
+  description: >-
+    **¿Te puedo ayudar?** 🚀
+    
+    Si crees que mi experiencia puede ser útil para impulsar tu proyecto, 
+    no dudes en contactarme a través de mi email o LinkedIn.
+
+  social:
+    linkedin:     cristiancartagenamatos # Tu ID de perfil de LinkedIn
+    github:       cristianminas        # Tu nombre de usuario de GitHub
+    kaggle:       cristianminas        # Tu nombre de usuario de Kaggle
 
 # --- Menú de Navegación (en la barra lateral) ---
 menu:
