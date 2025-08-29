@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Sobre mí
-permalink: /
+permalink: /index/
 ---
 
 ### Sobre mí
