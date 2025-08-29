@@ -31,7 +31,7 @@ author:
 # --- Menú de Navegación (en la barra lateral) ---
 menu:
   - title:          Sobre mí
-    url:            /
+    url:            /index/
 
   - title:          Experiencia
     url:            /experiencia/
