@@ -45,7 +45,7 @@ twitter-old:
 x:
   name: X
   icon: icon-twitter
-  prepend: 'https://x.com/CCARTAGENAMATOS/'
+  prepend: 'https://x.com/'
 vine:
   name: Vine
   icon: icon-vine
@@ -112,7 +112,7 @@ ondrive:
 github:
   name: GitHub
   icon: icon-github
-  prepend: "https://github.com/CCARTAGENAMATOS/"
+  prepend: "https://github.com/"
 npm:
   name: npm
   icon: icon-npm
