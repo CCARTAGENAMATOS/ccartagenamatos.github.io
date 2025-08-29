@@ -10,14 +10,12 @@ En esta página encontrarás algunos de mis proyectos más destacados.
 
 ## 🚀 Proyectos Destacados
 
-## 🚀 Proyectos Destacados
-
 <div class="grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px;">
 
   <!-- Proyecto 1 -->
   <div class="card" style="text-align: center; padding: 10px; border: 1px solid #ddd; border-radius: 10px;">
     <a href="./blog/proyecto-nucleos">
-      <img src="{{ '/assets/img/proyecto_nucleos.png' | absolute_url }}" alt="Núcleos de Perforación" style="width:100%; border-radius: 10px;">
+      <img src="{{ 'https://raw.githubusercontent.com/CCARTAGENAMATOS/ccartagenamatos.github.io/refs/heads/master/core.png' | absolute_url }}" alt="Núcleos de Perforación" style="width:100%; border-radius: 10px;">
       <h3>Detección de Núcleos de Perforación</h3>
     </a>
     <p>Clasificación automática de muestras geológicas con CNNs en PyTorch.</p>
@@ -26,7 +24,7 @@ En esta página encontrarás algunos de mis proyectos más destacados.
   <!-- Proyecto 2 -->
   <div class="card" style="text-align: center; padding: 10px; border: 1px solid #ddd; border-radius: 10px;">
     <a href="./blog/proyecto-shap">
-      <img src="{{ '/assets/img/proyecto_shap.png' | absolute_url }}" alt="XGBoost y SHAP" style="width:100%; border-radius: 10px;">
+      <img src="{{ 'https://raw.githubusercontent.com/CCARTAGENAMATOS/ccartagenamatos.github.io/refs/heads/master/shap.png' | absolute_url }}" alt="XGBoost y SHAP" style="width:100%; border-radius: 10px;">
       <h3>Optimización de Procesos Mineros</h3>
     </a>
     <p>Predicción de pureza de mineral con XGBoost y explicabilidad con SHAP.</p>
@@ -35,7 +33,7 @@ En esta página encontrarás algunos de mis proyectos más destacados.
   <!-- Proyecto 3 -->
   <div class="card" style="text-align: center; padding: 10px; border: 1px solid #ddd; border-radius: 10px;">
     <a href="./blog/proyecto-yolo">
-      <img src="{{ '/assets/img/proyecto_yolo.png' | absolute_url }}" alt="YOLOv5 Minería" style="width:100%; border-radius: 10px;">
+      <img src="{{ 'https://raw.githubusercontent.com/CCARTAGENAMATOS/ccartagenamatos.github.io/refs/heads/master/camiones.png' | absolute_url }}" alt="YOLOv5 Minería" style="width:100%; border-radius: 10px;">
       <h3>Detección de Equipos Mineros</h3>
     </a>
     <p>Identificación en tiempo real de maquinaria pesada con YOLOv5.</p>
